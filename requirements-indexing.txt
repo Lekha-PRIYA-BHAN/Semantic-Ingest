@@ -1,0 +1,26 @@
+openai
+langchain
+python-dotenv
+PyPDF2
+faiss-cpu
+unstructured
+tiktoken
+docx2txt
+docx
+python-docx
+markdown
+pypdf
+pdf2image
+pdfminer
+pdfminer.six
+pymupdf
+pdfplumber
+spacy
+ruamel.yaml
+yamlloader
+beautifulsoup4
+# fitz may require uninstall
+fitz
+frontend
+#spacy download en_core_web_sm
+#jq does not deploy on windows
